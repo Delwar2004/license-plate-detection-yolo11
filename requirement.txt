@@ -1,0 +1,23 @@
+# Core
+
+torch
+torchvision
+
+# YOLO / Computer Vision
+
+ultralytics
+
+# Dataset
+
+roboflow
+
+# Image Processing
+
+opencv-python
+Pillow
+
+# Data & Visualization
+
+numpy
+matplotlib
+pandas
