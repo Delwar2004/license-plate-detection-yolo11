@@ -1,0 +1,81 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Google Colab
+
+*.ipynb_checkpoints
+
+# Dataset
+
+dataset/
+datasets/
+data/
+*.zip
+
+# YOLO / Ultralytics outputs
+
+runs/
+weights/
+*.pt
+*.onnx
+
+# Roboflow
+
+.roboflow/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# IDEs
+
+.vscode/
+.idea/
+
+# Environment variables / secrets
+
+.env
+.env.*
+*.env
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Python packaging
+
+*.egg-info/
+dist/
+build/
+
+# Secrets
+
+secrets/
+credentials/
+config.local.*
+
+# Miscellaneous
+
+*.cache
+*.bak
